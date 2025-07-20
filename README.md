@@ -4,7 +4,7 @@ A curated collection of my solutions to LeetCode problems, written in C++/Python
 
 ### 📌 Features:
 
-- ✅ Well-structured filenames (e.g., `two-sum.cpp`)
+- ✅ Well-structured filenames
 - 🧠 Covers a range of topics: arrays, strings, dynamic programming, trees, graphs, and more
 - 🔄 Easy automation for adding new problems via a script
 
