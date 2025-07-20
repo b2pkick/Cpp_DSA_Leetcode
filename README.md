@@ -11,3 +11,15 @@ A curated collection of my solutions to LeetCode problems, written in C++/Python
 ### 🚀 Purpose:
 
 To track my DSA progress and maintain a personal archive of solved problems while preparing for coding interviews and improving problem-solving skills.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
