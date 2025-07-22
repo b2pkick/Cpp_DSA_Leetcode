@@ -8,8 +8,8 @@ public:
             p=p/10;
             count++;
         }
-        if(n==1) return true;
-        if(count==1) return false;
+        // if(n==1) return true;
+        // if(count==1) return false;
         int sum=n;
         while(sum!=1){
             p=sum;
