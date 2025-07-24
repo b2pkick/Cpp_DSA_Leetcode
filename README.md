@@ -18,6 +18,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -62,4 +63,12 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
