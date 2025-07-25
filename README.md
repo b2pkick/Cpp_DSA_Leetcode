@@ -21,6 +21,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0004-median-of-two-sorted-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0041-first-missing-positive) |
+| [0283-move-zeroes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -41,6 +42,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0011-container-with-most-water](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
