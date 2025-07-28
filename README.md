@@ -21,6 +21,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0004-median-of-two-sorted-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -78,10 +79,12 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
