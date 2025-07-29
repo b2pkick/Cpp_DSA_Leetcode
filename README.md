@@ -23,6 +23,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0041-first-missing-positive](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +76,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0007-reverse-integer](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
