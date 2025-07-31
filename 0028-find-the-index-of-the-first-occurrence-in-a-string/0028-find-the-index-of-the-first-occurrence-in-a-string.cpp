@@ -1,38 +1,16 @@
 class Solution {
 public:
-    int strStr(string s, string needle) {
-        int p=0;
-        int q=0;
-        for(int i=0;i<s.length();i++){
-            if(p==0){
-            if(s[i]==needle[0]) q=i;
+    int strStr(string s, string m) {
+        int j=0;
+        if(m.length()>s.length()) return -1;
+        if(m.length()==0) return 0;
+        for(int i=0;i<=s.length()-m.length();i++){
+            j=0;
+            while(j<m.length()&&s[i+j]==m[j]){
+                j++;
             }
-            if(s[i]==needle[p]){
-                p++;
-            }else{
-                i=i-p+1;
-                p=0;
-                if(p==0){
-                    if(s[i]==needle[p]){ 
-                        q=i;
-                        p++;
-                    }
-                }
-            }
-            if(p==needle.length()) return q; 
+            if(j==m.length()) return i;
         }
-        // p=needle.length()-1;
-        // for(int i=s.length()-1;i>=0;i--){
-        //     if(s[i]==needle[p]){
-        //         p--;
-        //     }else{
-        //         p=needle.length()-1;
-        //         if(s[i]==needle[p]){
-        //             p--;
-        //         }
-        //     }
-        //     if(p==-1) return i; 
-        // }
         return -1;
     }
 };
