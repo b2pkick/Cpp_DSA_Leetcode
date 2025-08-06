@@ -24,6 +24,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -42,6 +43,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0003-longest-substring-without-repeating-characters](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0645-set-mismatch) |
@@ -50,6 +52,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
@@ -78,6 +81,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
