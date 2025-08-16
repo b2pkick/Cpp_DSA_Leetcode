@@ -32,6 +32,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0485-max-consecutive-ones](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0645-set-mismatch) |
+| [1046-max-consecutive-ones-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -112,6 +113,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0035-search-insert-position](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0367-valid-perfect-square) |
+| [1046-max-consecutive-ones-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -160,9 +162,11 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
