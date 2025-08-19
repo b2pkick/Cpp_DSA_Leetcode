@@ -40,6 +40,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1446-angle-between-hands-of-a-clock](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Simulation
 |  |
 | ------- |
