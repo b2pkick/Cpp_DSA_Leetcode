@@ -7,16 +7,11 @@ public:
             if(nums[i]==0){
                 count++;
             }else{
-                while(count!=0){
-                    count1+=count;
-                    count--;
-                }
+                count1+=count*(count+1)/2;
+                count=0;
             }
         }
-        while(count!=0){
-            count1+=count;
-            count--;
-        }
+        count1+=count*(count+1)/2;
         return count1;
     }
 };
