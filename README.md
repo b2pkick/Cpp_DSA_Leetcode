@@ -108,6 +108,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0007-reverse-integer](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0367-valid-perfect-square) |
@@ -186,4 +187,8 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
