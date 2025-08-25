@@ -22,6 +22,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0011-container-with-most-water](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
@@ -146,6 +147,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0216-combination-sum-iii) |
