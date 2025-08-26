@@ -27,6 +27,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0047-permutations-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0216-combination-sum-iii) |
@@ -54,6 +55,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0001-two-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0229-majority-element-ii) |
@@ -222,4 +224,8 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0319-bulb-switcher) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
