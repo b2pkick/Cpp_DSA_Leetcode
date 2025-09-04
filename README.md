@@ -135,6 +135,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3830-find-closest-person](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
