@@ -30,6 +30,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -243,4 +244,8 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
