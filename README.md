@@ -20,6 +20,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0001-two-sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0041-first-missing-positive) |
@@ -83,6 +84,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -116,6 +118,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
