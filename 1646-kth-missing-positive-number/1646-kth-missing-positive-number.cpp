@@ -9,10 +9,8 @@ public:
             mid=st+(ed-st)/2;
             if(arr[mid]-(mid+1)<k){
                 st=mid+1;
-                ok=mid;
             }else{
                 ed=mid-1;
-                ok=mid;
             }
         }
         return st+k;
