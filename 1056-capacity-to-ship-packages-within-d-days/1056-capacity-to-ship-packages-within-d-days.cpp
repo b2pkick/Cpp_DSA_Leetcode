@@ -15,7 +15,7 @@ public:
             count=1;
             for(int i=0;i<weights.size();i++){
                 sum+=weights[i];
-                if(sum==mid&&mid<weights.size()-1){
+                if(sum==mid&&i<weights.size()-1){
                     count++;
                     sum=0;
                 }else if(sum>mid){
