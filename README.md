@@ -59,6 +59,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -200,6 +201,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0907-koko-eating-bananas](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
