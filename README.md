@@ -167,6 +167,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0069-sqrtx](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0507-perfect-number) |
@@ -229,6 +230,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -277,6 +279,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
