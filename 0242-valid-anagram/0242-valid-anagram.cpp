@@ -9,14 +9,9 @@ public:
         for(auto it:t){
             mp1[it]++;
         }
-        if(mp.size()>mp1.size()){
+        if(mp.size()!=mp1.size()) return false;
         for(auto it:mp){
             if(it.second!=mp1[it.first]) return false;
-        }
-        }else{
-            for(auto it:mp1){
-            if(it.second!=mp[it.first]) return false;
-        }
         }
         return true;
     }
