@@ -2,12 +2,9 @@ class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
         priority_queue<int,vector<int>,greater<int>> pq;
-        long long diff;
-        pq.push(-100000);
         for(int i=0;i<arr.size();i++){
-            diff=abs(arr[i]-x);
             if(pq.size()==k){
-                if(abs(pq.top()-x)>diff){
+                if(abs(arr[i]-x)<abs(pq.top()-x)){
                     pq.pop();
                     pq.push(arr[i]);
                 }
