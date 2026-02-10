@@ -4,8 +4,9 @@ public:
         int ans=0;
         int even=0;
         int odd=0;
+        unordered_set<int> set;
         for(int i=0;i<nums.size();i++){
-            unordered_set<int> set;
+            set.clear();
             even=0;
             odd=0;
             if(nums.size()-i<=ans) break;
