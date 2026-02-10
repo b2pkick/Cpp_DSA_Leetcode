@@ -47,6 +47,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0229-majority-element-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0525-contiguous-array) |
@@ -86,6 +87,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0229-majority-element-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +103,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0229-majority-element-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -158,6 +161,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0645-set-mismatch) |
@@ -225,6 +229,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0023-merge-k-sorted-lists](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
@@ -298,6 +303,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -306,6 +312,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -364,4 +371,8 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
