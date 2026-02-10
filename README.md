@@ -131,6 +131,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0011-container-with-most-water](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1448-maximum-69-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -143,6 +144,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0151-reverse-words-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0299-bulls-and-cows) |
+| [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2032-largest-odd-number-in-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -262,6 +264,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## String Matching
@@ -335,6 +338,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0118-pascals-triangle) |
+| [0678-valid-parenthesis-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Game Theory
 |  |
 | ------- |
