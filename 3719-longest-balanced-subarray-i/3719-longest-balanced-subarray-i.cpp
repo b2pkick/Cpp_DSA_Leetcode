@@ -9,6 +9,7 @@ public:
             set.clear();
             even=0;
             odd=0;
+            if(nums.size()-i<ans) break;
             for(int j=i;j<nums.size();j++){
                 if(set.find(nums[j])==set.end()){
                     set.insert(nums[j]);
