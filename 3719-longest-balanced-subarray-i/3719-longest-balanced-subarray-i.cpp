@@ -11,6 +11,7 @@ public:
             odd=0;
             if(nums.size()-i<=ans) break;
             for(int j=i;j<nums.size();j++){
+                if(even>nums.size()-i||odd>nums.size()-i) break;
                 if(set.find(nums[j])==set.end()){
                     set.insert(nums[j]);
                     if(nums[j]%2==0) even++;
