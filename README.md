@@ -388,4 +388,12 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
