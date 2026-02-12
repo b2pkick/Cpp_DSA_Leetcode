@@ -67,6 +67,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
@@ -99,6 +100,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1264-maximum-number-of-words-you-can-type](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3713-longest-balanced-substring-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -232,6 +234,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -297,6 +300,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0219-contains-duplicate-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
@@ -306,6 +310,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0560-subarray-sum-equals-k](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Recursion
