@@ -123,6 +123,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
@@ -168,6 +169,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0018-4sum](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0242-valid-anagram) |
@@ -241,6 +243,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -389,10 +392,12 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0148-sort-list) |
 ## Bucket Sort
 |  |
 | ------- |
