@@ -149,6 +149,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0020-valid-parentheses](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0299-bulls-and-cows) |
@@ -188,6 +189,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0009-palindrome-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0202-happy-number) |
@@ -210,6 +212,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | ------- |
 | [0054-spiral-matrix](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0067-add-binary) |
 | [1094-car-pooling](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/1094-car-pooling) |
 | [2228-watering-plants-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -260,6 +263,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0191-number-of-1-bits) |
