@@ -12,17 +12,17 @@
 class Solution {
 public:
     int ans;
-    void ok(TreeNode* root,int k,int& i){
-        if(!root) return;
-        if(ans) return;
-        ok(root->left,k,i);
+    bool ok(TreeNode* root,int k,int& i){
+        if(!root) return false;
+        if(ok(root->left,k,i)) return true;
         if(i==k){
             ans=root->val;
             i++;
-            return;
+            return true;
         }
         i++;
-        ok(root->right,k,i);
+        if(ok(root->right,k,i)) return true;
+        return false;
     }
     int kthSmallest(TreeNode* root, int k) {
         int i=1;
