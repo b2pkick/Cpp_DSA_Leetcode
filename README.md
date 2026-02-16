@@ -377,6 +377,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -385,10 +386,12 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 ## Binary Search Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
