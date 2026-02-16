@@ -14,6 +14,7 @@ public:
     int ans;
     void ok(TreeNode* root,int k,int& i){
         if(!root) return;
+        if(ans) return;
         ok(root->left,k,i);
         if(i==k){
             ans=root->val;
