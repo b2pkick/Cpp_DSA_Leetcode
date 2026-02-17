@@ -260,6 +260,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0078-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0401-binary-watch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -271,6 +272,7 @@ To track my DSA progress and maintain a personal archive of solved problems whil
 | [0191-number-of-1-bits](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/b2pkick/Cpp_DSA_Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
